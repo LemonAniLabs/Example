@@ -5,7 +5,7 @@
   i18n: tensorflow-resnet
   gh_user: LemonAniLabs
   repo: tensorflow-resnet
-  img: /static/assets/img/landing/Tensorflow.jpg
+  img: /static/assets/img/landing/tensorflow.png
   desc: This project is my project. I use Tensorflow to train the End-to-end Auto-driving car in a video game GTAV.
 
 - name: Python
