@@ -1,18 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Acer
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: I worked at Acer ...
+    i18n: acer_desc
   date:
-    detail: Apr. 2014
+    detail: Dec. 2014
     i18n: company_a_date
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    detail: Software Developer
+    i18n: acer_job
+  icon: fa-terminal
 
 - name:
     detail: NCTU
@@ -21,7 +21,7 @@
     detail: Master degree student in Computer Science from National Chiao Tung University.
     i18n: nctu_desc
   date:
-    detail: Jun. 2012
+    detail: Sep. 2012
     i18n: nctu_b_date
   job:
     detail: Majior in Computer Science
